@@ -25,7 +25,7 @@ The focus is on understanding **system behavior**, not just measuring outcomes.
 ---
 ## 📐 Architecture
 
-![Real-Time Patient Flow Architecture](architecture-diagram.png)
+!(Architecture.png)
 
 ---
 
@@ -55,6 +55,7 @@ real-time-patient-flow-analytics/
 │   └── healthcare.pbix
 │   # Operational dashboard built on analytical views
 │
+│── Architecture.png
 ├── .gitignore
 └── README.md
 ```
