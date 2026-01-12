@@ -23,6 +23,11 @@ Key goals:
 The focus is on understanding **system behavior**, not just measuring outcomes.
 
 ---
+## 📐 Architecture
+
+![Real-Time Patient Flow Architecture](architecture-diagram.png)
+
+---
 
 ## 📁 Repository Structure
 
@@ -116,8 +121,6 @@ The model is intentionally minimal. Advanced historical modeling was avoided to 
 ---
 
 ## ⚙️ Pipeline Logic
-
-Instead of step-by-step setup instructions, the pipeline is organized by capability:
 
 - **Streaming Ingestion**  
   Continuous event consumption via a Kafka-compatible interface  
