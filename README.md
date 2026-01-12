@@ -25,7 +25,7 @@ The focus is on understanding **system behavior**, not just measuring outcomes.
 ---
 ## 📐 Architecture
 
-!(Architecture.png)
+![Real-Time Patient Flow Architecture](Architecture.png)
 
 ---
 
